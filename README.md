@@ -1,4 +1,4 @@
-# Customer Feedback Sentiment Analysis - Simple Project
+# Customer Feedback Sentiment Analysis 
 
 This project trains a simple TF-IDF + Logistic Regression classifier to predict sentiment
 (Positive / Negative / Neutral) from customer feedback text.
